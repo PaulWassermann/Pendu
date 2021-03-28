@@ -15,4 +15,6 @@ You can add more words to the files, one word by line and in upper case, followi
 - words between 6 t 9 lettres for the Intermediaire.txt
 - words 7 letters-long or more for the Difficile.txt, and it is more challenging if you choose uncommon words
 
+If you want to add some rules, some game modes or if you want to take a look at the code, feel free to do so!
+
 Have fun! :)
