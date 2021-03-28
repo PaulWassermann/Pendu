@@ -10,7 +10,9 @@ Download the .exe and the three .txt files.
 
 You can access all the information from within the application (in French). However, make sure to not modify the names of the three .txt files.
 
-You can add more words to the files, one word by line, and following those rules to be consistent with the rules I set up:
+You can add more words to the files, one word by line and in upper case, following those rules to be consistent with the rules I set up:
 - words between 5 to 7 letters for the Facile.txt
 - words between 6 t 9 lettres for the Intermediaire.txt
-- words 7 letters or more for the Difficile.txt
+- words 7 letters-long or more for the Difficile.txt, and it is more challenging if you choose uncommon words
+
+Have fun! :)
